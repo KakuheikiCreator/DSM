@@ -1,4 +1,4 @@
-# ESP32C6_if_case
+# ESP32C6_alarm_case
 This project is a DesignSpark Mechanical design data for an ESP32-C6 Alarm case
 
 # Release History
